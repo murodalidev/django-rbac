@@ -1,4 +1,4 @@
-# Django REST Framework: RBAC (Role-Based Access Control) - Admin va Klientlar uchun Bitta API
+# Django REST Framework: RBAC (Role-Based Access Control) 
 
 > **Description:** Django REST Framework loyihalarida admin dashboard va klientlar uchun API yaratishda ikkita yondashuv bor: ikki alohida API endpoint yoki bitta API rollar orqali boshqarish. Bu maqolada biz nima uchun ikkinchi usulni tanlaganimizni va RBAC (Role-Based Access Control) tizimini qanday amalga oshirishni batafsil tushuntiramiz. Kod misollari, amaliy misollar va best practices bilan.
 
